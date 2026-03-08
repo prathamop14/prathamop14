@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate tech enthusiast who enjoys learning and building new things in the world of programming.<br>I have experience with vibe coding and languages such as HTML, CSS, JavaScript, Python, and Node.js.<br>I enjoy working with data and love exploring big data and data analysis.<br>I like solving problems through code and continuously improving my technical skills.<br>I am always curious to learn new technologies and grow as a developer.
+I am a passionate tech enthusiast who enjoys learning and building new things in the world of programming.<br>I have experience with vibe coding and languages such as HTML, CSS, JavaScript, Python, and Node.js.<br>I enjoy working with data and love exploring big data and data analysis.<br>I like solving problems through code and continuously improving my technical skills.<br>I am always curious to learn new technologies and grow.
 
 
 ## 🌐 Socials:
